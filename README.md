@@ -1,3 +1,9 @@
+Clone coding of 'The movie app' by Great Tutor <John Ahn>
+
+https://github.com/jaewonhimnae
+
+-----------------------------------
+
 Hello, My Friends  
 Thank you for having interest in this repository ! 
 
@@ -9,7 +15,7 @@ To use this application,
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-If you have problem, feel free to ask me ^^ 
+If you have problem, feel free to John Ahn
 
 You can watch the tutorial for this app.
 
