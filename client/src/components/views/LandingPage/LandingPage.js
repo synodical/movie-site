@@ -51,10 +51,12 @@ function LandingPage() {
             <div style={{ width: '75%', margin: '1rem auto' }}>
                 <h2>Movies by lastest</h2>
                 <hr />
+
                 <Row gutter={[16, 16]}>
                     {Movies && Movies.map((movie, index) => (
                         <React.Fragment key={index}>
                             <GridCards
+                            landingPage
                                 image={movie.poster_path ?
                                     `${IMAGE_BASE_URL}w500${movie.poster_path}` : null
                                 }
